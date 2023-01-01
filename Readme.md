@@ -10,7 +10,7 @@
 
 # Working of this Project
 
-![alt](images/gif.gif)
+<img src="Images/gif.gif" align="center">
 
 # You can follow me on Instagram for various projects on web development and basic DSA questions
 
